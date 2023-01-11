@@ -32,11 +32,21 @@ div.verde{
 div.mapayvideo{
     display: flex;
 
+}
 
+div.video{
+    min-width: 50%;
+    
+    align-items: center;
+    align-content: center;
+}
+
+div.mapa{
+    min-width: 50%;
 
 }
 
-span.nombre{
+footer.realizado{
     background-color: yellow;
 
 }
